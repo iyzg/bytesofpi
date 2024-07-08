@@ -1,5 +1,7 @@
 # Bytes of Pi
 
+This is modelled off of [Norvig's pytudes](https://github.com/norvig/pytudes/tree/main)! These are little notebooks to help me practice my Python while hopefully writing some interesting programs. :)
+
 ## Slices
 
 |Link|Year|Recent|
