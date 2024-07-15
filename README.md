@@ -6,6 +6,7 @@ This is modelled off of [Norvig's pytudes](https://github.com/norvig/pytudes/tre
 
 |Link|Year|Recent|
 |---|---|---|
+|[Github](notebooks/Vose-Alias.ipynb)|2024|Vose-Alias Method|
 |[Github](notebooks/Mandlebrot-Set.ipynb)|2024|Mandlebrot|
 |[Github](notebooks/Dumb-LM.ipynb)|2024|Dumb Language Modeling|
 |[Colab](https://colab.research.google.com/drive/15CCZv7hkWca5n7h17sPLoZ5hGXyOhpOR?usp=sharing)|2024|Minimal MLP|
